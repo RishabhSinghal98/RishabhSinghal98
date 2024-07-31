@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rishabh Singhal</h1>
+<h1 align="center">Hello , I'm Rishabh Singhal</h1>
 <h3 align="center">Bachelor of Technology in Computer Science (2021-2025)</h3>
 <h1 align="center">
   <img src="https://github.com/RishabhSinghal98/images/blob/main/header_.png" alt="Header Image" width="100%" />
